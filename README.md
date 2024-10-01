@@ -1,4 +1,3 @@
-# Readme
 <h1 align="left"># Hi there! I'm Nanno 👋</h1>
 
 ###
