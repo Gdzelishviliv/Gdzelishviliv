@@ -58,7 +58,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Gdzelishviliv/Gdzelishviliv/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Gdzelishviliv/Gdzelishviliv/blob/output/snake.svg)
+
 
 ###
 
