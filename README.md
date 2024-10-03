@@ -58,9 +58,6 @@
 
 ###
 
-![Snake animation](https://github.com/Gdzelishviliv/Gdzelishviliv/blob/output/snake.svg)
-
-
 ###
 
 <div align="center">
